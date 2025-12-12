@@ -30,10 +30,10 @@ JavaScript (ES6+)
 
 Preview
 
-![meyve](./assets/meyve.gif)
+![meyve](./public/img/meyve.gif)
 
 
 <br>
 
 
-![tahmin](./assets/tahmin.gif)
+![tahmin](./public/img/tahmin.gif)
